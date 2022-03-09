@@ -22,5 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![parastagram](https://user-images.githubusercontent.com/43163898/157393436-924db996-fc31-4ee6-a7c3-4150a8b5a269.gif)
+![newParr](https://user-images.githubusercontent.com/43163898/157396730-4a10b5fe-3db7-4bd4-89d8-764e867daeb8.gif)
 
