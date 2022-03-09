@@ -1,2 +1,0 @@
-# Parastagram
-Parastagram Part1
