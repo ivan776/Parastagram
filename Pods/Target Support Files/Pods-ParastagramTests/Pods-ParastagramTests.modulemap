@@ -1,6 +1,0 @@
-framework module Pods_ParastagramTests {
-  umbrella header "Pods-ParastagramTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

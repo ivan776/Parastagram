@@ -1,18 +1,23 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'Parastagram' do
-# Add Parse pods and install
-	use_frameworks!
+target 'Parstagram' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Add Parse pods and install
  	pod 'Parse'
  	pod 'AlamofireImage'
+	pod 'MessageInputBar'
 
-  target 'ParastagramTests' do
+  # Pods for Parstagram
+
+  target 'ParstagramTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'ParastagramUITests' do
+  target 'ParstagramUITests' do
     # Pods for testing
   end
 
